@@ -50,9 +50,9 @@ console.log(typeof(firstname));
 let name= `Chahat
 surname is
 Jain`;
-// console.log(name);
-// let ans=`${firstname}  ${lastname}`;
-// console.log(ans)
+console.log(name);
+let ans=`${firstname}  ${lastname}`;
+console.log(ans)
 
 console.log(firstname.toUpperCase());
 let str="Hello World";
